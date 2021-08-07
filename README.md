@@ -5,7 +5,7 @@
 
 # Introduction
 
-> Cloud chat is a messenger app. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud based NoSQL database and secure authentication methods.
+> Cloud chat is a group messenger app. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud based NoSQL database and secure authentication methods.
 
 Before we start, you can take a look at the app:
 
